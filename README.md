@@ -1,5 +1,8 @@
 # Como raspar dados rapidamente para fazer abitragem em casas de apostas 
 
+[![YT](https://i.ytimg.com/vi/FNZgU6RdPRg/maxresdefault.jpg)](https://www.youtube.com/watch?v=FNZgU6RdPRg)
+[https://www.youtube.com/watch?v=FNZgU6RdPRg]()
+
 No nosso vídeo de hoje, exploramos uma emocionante aplicação da programação em Python - a arbitragem em casas de apostas esportivas. 
 Se você já se perguntou como os apostadores profissionais conseguem encontrar oportunidades lucrativas em diferentes casas de 
 apostas, este vídeo é para você!
